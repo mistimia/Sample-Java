@@ -16,6 +16,3 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-artifacts:
-  files:
-    - target/tektutor-hello-app-1.0.0.jar
